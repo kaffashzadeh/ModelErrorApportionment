@@ -1,0 +1,2 @@
+###### requirements to run the test ######
+pandas == 0.23.4
