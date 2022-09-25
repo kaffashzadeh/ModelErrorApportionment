@@ -7,7 +7,7 @@ mean square error and its apportions.
 
 After obtaining the package on your system, to run: 
 
-- on terminal
+- on a terminal
 > cd ModelErrorApportionment/src
 
 > python3 MEA.py
@@ -19,4 +19,6 @@ After obtaining the package on your system, to run:
 > ApportionError(file_name_obs='temp_obs', file_name_model='temp_m1').run()
 
 
-More details of the methodology along with an example are provided in: _
+More details of the methodology along with an example are provided in: 
+[An Intercomparison of two Reanalysis Datasets CAMS vs. ERA5]()
+
