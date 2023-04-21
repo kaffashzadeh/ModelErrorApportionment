@@ -20,5 +20,5 @@ After obtaining the package on your system, to run:
 
 
 More details of the methodology along with an example are provided in: 
-[An Intercomparison of two Reanalysis Datasets CAMS vs. ERA5]()
+[An Intercomparison of two Reanalysis Datasets CAMS vs. ERA5](https://www.nigsconference.ir/article_8614.pdf)
 
