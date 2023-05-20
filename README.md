@@ -1,5 +1,7 @@
 # ModelErrorApportionment
 
+[![DOI](https://zenodo.org/badge/489897422.svg)](https://zenodo.org/badge/latestdoi/489897422)
+
 This is a scripts to evaluate a model outputs using a comprehensive indicator, i.e.
 mean square error and its apportions.
 
